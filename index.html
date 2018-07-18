@@ -23,23 +23,40 @@
     </head>
     
     <body>
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 top-header">
+        <div class="container-fluid sticky-top top-bar">
+            <div class="container">
+                <div class="title-header d-none d-lg-block">
                     <h1 class="text-center display-1">EUROYoung</h1>
                     <canvas class="header-animation"></canvas>
                 </div>
-            </div>
+                
+                <nav class="navbar navbar-expand-lg navbar-dark euroyoung-navbar">
+                    <a class="navbar-brand d-lg-none euroyoung-brand" href="#" title="EUROYoung homepage">EUROYoung</a>
 
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigationlinks" aria-controls="navigationlinks" aria-expanded="false">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse w-100 justify-content-center" id="navigationlinks">
+                        <ul class="navbar-nav mx-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#introduction" title="Introduction to EUROYoung">Introduction</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#structure" title="EUROYoung structure">Structure</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#membership" title="EUROYoung membership requirements">Membership</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <div class="container-fluid">
             <div class="row justify-content-center main-content">
-                <div class="col-lg-1 navigation-column">
-                    <nav class="nav flex-column" id="left-nav">
-                        <a class="nav-link" href="#introduction" title="Introduction to EUROYoung">Introduction</a>
-                        <a class="nav-link" href="#structure" title="EUROYoung structure">Structure</a>
-                        <a class="nav-link" href="#membership" title="EUROYoung membership requirements">Membership</a>
-                    </nav>
-                </div>
-                <div class="col-lg-5">
+                <div class="col-lg-4">
                     <article id="introduction">
                         <h1>Introduction</h1>
 
@@ -92,17 +109,17 @@
                             </ul>
                         </p>
 
-                        <div class="jumbotron jumbotron-fluid euroyoung-jumbotron rounded">
+                        <div class="jumbotron euroyoung-jumbotron rounded">
                             <div class="container">
                                 <h1 class="display-4">Are you a young O.R. researcher?</h1>
                                 <p class="lead">
-                                    If you comply with the <a href="#requirements" title="EUROYoung membership requirements">membership requirements</a>, do not hesitate to get in touch with us by sending a super-short mail to <a href="mailto:euroyoung@gmail.com" title="EUROYoung email address">euroyoung@gmail.com</a>.
+                                    If you comply with the <a href="#membership" title="EUROYoung membership requirements">membership requirements</a>, do not hesitate to get in touch with us by sending a super-short mail to <a href="mailto:euroyoung@gmail.com" title="EUROYoung email address">euroyoung@gmail.com</a>.
                                 </p>
                             </div>
                         </div>
                     </article>
 
-                    <article id="#requirements">
+                    <article id="membership">
                         <h1>Membership requirements</h1>
 
                         <p>
@@ -129,12 +146,12 @@
                         An initiative sponsored by <a href="https://www.euro-online.org/" title="EURO Website">EURO</a>.
                     </p>
                     <a href="https://www.euro-online.org/" title="EURO Website">
-                        <img src="images/euro.png" alt="EURO logo">
+                        <img src="images/euro.png" alt="EURO logo" class="img-fluid">
                     </a>
                 </div>
             </div>
         </div>
-fy
+
         <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/popper.min.js"></script>
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -155,6 +172,11 @@ fy
                     ]
                 });
             }
+        </script>
+        <script type="text/javascript">
+            $('#navigationlinks>ul>li>a').on('click', function() {
+                $('.navbar-collapse').collapse('hide');
+            });
         </script>
     </body>
 </html>

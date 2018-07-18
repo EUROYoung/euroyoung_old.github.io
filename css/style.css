@@ -1,5 +1,7 @@
-html {
-    font-size: 1.25rem;
+@media (min-width: 992px) {
+    html {
+        font-size: 1.25rem;
+    }
 }
 
 body {
@@ -12,8 +14,12 @@ a, a:hover, a:visited {
     font-weight: bold;
 }
 
-.top-header {
-    padding: 96px 0px 96px 0px;
+.top-bar {
+    background-color: #005694;
+}
+
+.title-header {
+    padding: 96px 0px 48px 0px;
 }
 
 .header-animation {
@@ -25,12 +31,20 @@ a, a:hover, a:visited {
     z-index: -1;
 }
 
-.navigation-column {
-    padding-bottom: 48px;
+.euroyoung-navbar {
+    padding: 48px 0px 48px 0px;
 }
 
-.navigation-column a::before {
-    content: "\203A\A0";
+.euroyoung-navbar button {
+    background-color: #005694;
+}
+
+.euroyoung-navbar a {
+    color: white !important;
+}
+
+.euroyoung-brand {
+    color: white !important;
 }
 
 .main-content {
@@ -46,6 +60,26 @@ a, a:hover, a:visited {
     margin-bottom: 48px;
 }
 
+@media (min-width: 992px) {
+    .main-content article:before {
+        content: "";
+        display: block;
+        height: 432px;
+        margin-top: -432px;
+        visibility: hidden;
+    }
+}
+
+@media (max-width: 992px) {
+    .main-content article:before {
+        content: "";
+        display: block;
+        height: 288px;
+        margin-top: -288px;
+        visibility: hidden;
+    }
+}
+
 .main-content ul {
     list-style: none;
 }
@@ -56,7 +90,7 @@ a, a:hover, a:visited {
 
 .bottom-footer {
     border-top: 1px solid #00ADE9;
-    padding-top: 48px;
+    padding: 48px 24px 48px 24px;
 }
 
 .bottom-footer img {
