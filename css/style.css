@@ -1,0 +1,83 @@
+html {
+    font-size: 1.25rem;
+}
+
+body {
+    background-color: #005694;
+    color: white;
+}
+
+a, a:hover, a:visited {
+    color: white;
+    font-weight: bold;
+}
+
+.top-header {
+    padding: 96px 0px 96px 0px;
+}
+
+.header-animation {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.navigation-column {
+    padding-bottom: 48px;
+}
+
+.navigation-column a::before {
+    content: "\203A\A0";
+}
+
+.main-content {
+    padding: 48px 0px 48px 0px;
+}
+
+.main-content h1, .main-content h2, .main-content h3 {
+    color: #00ADE9;
+    margin-bottom: 24px;
+}
+
+.main-content article {
+    margin-bottom: 48px;
+}
+
+.main-content ul {
+    list-style: none;
+}
+
+.main-content li::before {
+    content: "\203A\A0";
+}
+
+.bottom-footer {
+    border-top: 1px solid #00ADE9;
+    padding-top: 48px;
+}
+
+.bottom-footer img {
+    background-color: rgba(255, 255, 255, .75);
+}
+
+.iflag {
+    height: 1.5em;
+    width: 1.5em;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.intertext-img {
+    margin: 48px 0px 48px 0px;
+}
+
+.euroyoung-jumbotron {
+    background-color: #00ADE9;
+}
+
+.euroyoung-jumbotron h1 {
+    color: white;
+}
