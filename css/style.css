@@ -19,7 +19,7 @@ a, a:hover, a:visited {
 }
 
 .title-header {
-    padding: 96px 0px 48px 0px;
+    padding: 70px 0px 70px 0px;
 }
 
 .header-animation {
@@ -31,8 +31,12 @@ a, a:hover, a:visited {
     z-index: -1;
 }
 
+.euroyoung-thead > tr > th {
+    color: #005694 !important;
+}
+
 .euroyoung-navbar {
-    padding: 48px 0px 48px 0px;
+    padding: 24px 0px 24px 0px;
 }
 
 .euroyoung-navbar button {
@@ -109,6 +113,7 @@ a, a:hover, a:visited {
 }
 
 .euroyoung-jumbotron {
+    margin-top: 48px;
     background-color: #00ADE9;
 }
 
