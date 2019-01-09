@@ -60,6 +60,10 @@ a, a:hover, a:visited {
     margin-bottom: 24px;
 }
 
+.main-content-ws h1 {
+    font-weight: bold;
+}
+
 .main-content article {
     margin-bottom: 48px;
 }
@@ -72,6 +76,15 @@ a, a:hover, a:visited {
         margin-top: -432px;
         visibility: hidden;
     }
+
+    .main-content article.ws, .main-content .jumbotron-ws {
+        margin-bottom: 192px;
+    }
+    
+    .main-content article.ws {
+        padding-bottom: 192px;
+        border-bottom: 1px solid #00ADE9;
+    }
 }
 
 @media (max-width: 992px) {
@@ -81,6 +94,16 @@ a, a:hover, a:visited {
         height: 288px;
         margin-top: -288px;
         visibility: hidden;
+    }
+
+    .main-content .jumbotron-ws ul {
+        list-style-position: inside;
+        padding-left: 0;
+    }
+
+    .main-content .ws-sponsors img {
+        display: block;
+        margin-bottom: 12px;
     }
 }
 
@@ -119,4 +142,8 @@ a, a:hover, a:visited {
 
 .euroyoung-jumbotron h1 {
     color: white;
+}
+
+.homepage-alert a, .homepage-alter a:link, .homepage-alert a:hover, .homepage-alert a:visited {
+    color: inherit;
 }

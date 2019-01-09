@@ -66,7 +66,7 @@
         </div>
 
         <div class="container-fluid">
-            <div class="row justify-content-center main-content">
+            <div class="row justify-content-center main-content main-content-ws">
                 <div class="col-lg-6">
                     <div class="jumbotron jumbotron-ws">
                         <h1 class="display-4">Key facts</h1>
@@ -77,24 +77,67 @@
                             <li>Free meals (2 lunches and 1 dinner).</li>
                             <li>Social activities.</li>
                             <li>Invited lectures by <a href="https://www.inesctec.pt/en/people/ana-viana" title="Ana Viana Homepage">Ana Viana</a> and <a href="https://scholar.google.com/citations?user=DzigbIgAAAAJ" title="Federico Perea Scholar Page">Federico Perea</a>.</li>
-                            <li>Contributed sessions to present your research.</li>
+                            <li>Contributed sessions to present your research in a young, collaborative, and relaxed environment.</li>
+                            <li>Tutorial sessions to learn about useful techniques and tools.</li>
+                            <li>Opportunities for networking and tutoring with our invited speakers.</li>
                         </ul>
 
-                        <p>
-                            Note: The workshop takes place just after International Workers' Day (1 May) and just before Seville's major festival, the Feria de Abril (4-11 May).
-                        </p>
-
-                        <figure class="figure d-block mx-auto pt-3 text-center">
+                        <figure class="figure d-block mx-auto my-5 pt-3 text-center">
                             <img class="figure-img img-fluid rounded" src="images/feria-de-abril.jpg" alt="The Feria de Abril in Seville">
                             <figcaption class="figure-caption">The Feria de Abril in Seville.</figcaption>
                         </figure>
+
+                        <p>
+                            The workshop takes place just after International Workers' Day (1 May) and just before Seville's major festival, the Feria de Abril (4-11 May).
+                            Any question can be addressed to <a href="mailto:euroyoung+1workshop@protonmail.com" title="Write us">euroyoung+1workshop@protonmail.com</a>.
+                        </p>
                     </div>
 
-                    <article id="about-ws">
+                    <article class="ws" id="about-ws">
                         <h1>About the Workshop</h1>
 
                         <p>
                             We are pleased to invite you at the first EUROYoung Workshop, a great opportunity for young Operational Research scientists from EURO countries to get together in person.
+                        </p>
+
+                        <p>
+                            There are four main scientific activities (<a href="#soc-cult" title="Social and Cultural Activities">see below for social and cultural activities</a>) organised during the workshop:
+                            <ul>
+                                <li class="mb-5">
+                                    <strong>Invited sessions</strong>.
+                                    These are talks given by prominent researchers; they aim at disseminating knowledge about their research work, but also to inspire you and provide you a broader view of research in the field of Operational Research.
+                                </li>
+                                <li class="mb-5">
+                                    <strong>Contributed sessions</strong>.
+                                    These are great chances to present your work to a relaxed, young, and propositive audience.
+                                    It doesn't matter if your research work is still in progress, everyone is welcome to share their results or the challenging problems they are tackling.
+                                    You can use these session to elicit feedback, find new collaborators, or even just rehearse your talk before the &laquo;big&raquo; conference.
+
+                                    <br/>
+
+                                    <em>To contribute a talk, use the <a href="https://goo.gl/forms/RVwDlXqhdNXZj7Yw2" title="Registration Google Form">sign-up Google Form</a> to indicate you want to present, and <a href="mailto:euroyoung+1workshop@protonmail.com?subject=Abstract%20submission" title="Send a mail to EUROYoung">send us the abstract</a>.</em>
+                                    A presentation is expected to last around 30 minutes (25 minutes talk + 5 minutes for questions and feedback).
+                                </li>
+                                <li class="mb-5">
+                                    <strong>Tutorial sessions</strong>.
+                                    During these sessions you can showcase a particular tool or technique you find interesting, useful, or just plain cool.
+                                    Did you just sped up your code by a factor of four profiling and setting the right compiler flags? Show us how!
+                                    Did you build a pipeline to run experiments, collect results, and analyse them? We want to know.
+                                    Did you couple your optimisation algorithm with a machine learning application? Tell us more.
+                                    Did you implement reproducible builds and experiments, tracking your code status with git? We are eager to learn.
+
+                                    <br/>
+
+                                    <em>To contribute a tutorial, use the <a href="https://goo.gl/forms/RVwDlXqhdNXZj7Yw2" title="Registration Google Form">sign-up Google Form</a> to indicate you want to present.</em>
+                                    A tutorial is expected to last anywhere between 30 and 60 minutes.
+                                </li>
+                                <li class="mb-5">
+                                    <strong>Networking and tutoring</strong>.
+                                    We have the great opportunity to have with us Ana Viana and Federico Perea, and we are determined to squeeze all the energy out of them!
+                                    Ana and Federico are not only world-class established researchers, but also inspirational leaders in our field.
+                                    Do not miss the opportunity to network with them and ask for their suggestions on whatever topic: be it related to research, carreer, academic life, etc.
+                                </li>
+                            </ul>
                         </p>
 
                         <p>
@@ -131,8 +174,10 @@
                         </p>
                     </article>
 
-                    <article id="programme">
+                    <article class="ws" id="programme">
                         <h1>Programme</h1>
+
+                        <p>Note: &laquo;Contributed session&raquo; below can indicate both a presentation or a tutorial session.</p>
 
                         <table class="table">
                             <thead class="thead-light euroyoung-thead">
@@ -226,14 +271,14 @@
                             </tbody>
                         </table>
 
-                        <h2>Social and Cultural Activities</h2>
+                        <h2 id="soc-cult">Social and Cultural Activities</h2>
 
                         <p>
                             Stay tuned for news about networking activities, the gala dinner and guided tours to the beautiful city of Seville.
                         </p>
                     </article>
 
-                    <article id="travel">
+                    <article class="ws" id="travel">
                         <h1>Travel and Accommodation</h1>
 
                         <h2>Getting to Seville</h2>
@@ -275,12 +320,16 @@
                         </p>
                     </article>
 
-                    <article id="sign-up">
+                    <article class="ws" id="sign-up">
                         <h1>Sign up</h1>
 
                         <p>
                             Applications are now open and can be submitted via
-                            <a href="#" title="Registration Google Form">this Google Form</a>.
+                            <a href="https://goo.gl/forms/RVwDlXqhdNXZj7Yw2" title="Registration Google Form">this Google Form</a>.
+                        </p>
+
+                        <p>
+                            In the form, you can specify if you want to benefit from the free accommodation (and for which nights) and if you want to submit a talk or a tutorial.
                         </p>
 
                         <p>
@@ -289,7 +338,7 @@
                         </p>
                     </article>
 
-                    <article id="partner-initiatives">
+                    <article class="ws" id="partner-initiatives">
                         <h1>Partner Initiatives</h1>
 
                         <p>
@@ -314,17 +363,6 @@
                             </li>
                         </ul>
                     </article>
-                </div>
-            </div>
-
-            <div class="row justify-content-center">
-                <div class="col-lg-6 bottom-footer text-center">
-                    <p>
-                        An initiative sponsored by <a href="https://www.euro-online.org/" title="EURO Website">EURO</a>.
-                    </p>
-                    <a href="https://www.euro-online.org/" title="EURO Website">
-                        <img src="images/euro.png" alt="EURO logo" class="img-fluid">
-                    </a>
                 </div>
             </div>
         </div>
