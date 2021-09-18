@@ -9,3 +9,5 @@ url: "https://euroyoung.github.io/"
 remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
+gems:
+  - jekyll-seo-tag
