@@ -27,7 +27,7 @@ With these workshops we want:
 
 ## Next workshop
 
-* [Porto, Portugal](workshop22/index.html), 21-22 June 2022.
+* Porto, Portugal, 21-22 June 2022.
 
 ## Past workshops
 
