@@ -1,0 +1,11 @@
+title: EUROYoung
+email: euroyoung@no-address-yet.org
+description: >-
+  EUROYoung is a Forum of EURO, the European Association of Operational Research Societies.
+  We provide training, dissemination and networking opportunities to young Operational Researchers.
+baseurl: ""
+url: "https://euroyoung.github.io/"
+
+remote_theme: abhinavs/moonwalk
+plugins:
+  - jekyll-feed
