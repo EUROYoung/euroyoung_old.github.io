@@ -41,3 +41,8 @@ To stay true to our name, we encourage participation of young researchers (up to
 We track membership through our [Google Group](https://groups.google.com/forum/#!forum/euroyoung).
 To become a member, apply to join the group and tell us a little bit about yourself.
 To stop being a member, cancel your group subscription.
+
+# Contact
+
+Our email for generic inquiries is [info@euroyoung.eu](mailto:info@euroyoung.eu).
+For information about the workshop, you can write to [workshop@euroyoung.eu](mailto:workshop@euroyoung.eu)
