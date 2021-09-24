@@ -45,4 +45,4 @@ To stop being a member, cancel your group subscription.
 # Contact
 
 Our email for generic inquiries is [info@euroyoung.eu](mailto:info@euroyoung.eu).
-For information about the workshop, you can write to [workshop@euroyoung.eu](mailto:workshop@euroyoung.eu)
+For information about the workshop you can write to [workshop@euroyoung.eu](mailto:workshop@euroyoung.eu).
