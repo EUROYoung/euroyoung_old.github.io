@@ -1,0 +1,133 @@
+# The second EUROYoung Workshop <a id="top"/>
+
+[Important dates](#important_dates) · [Programme](#programme) · [Registration](#registration) · [Call for abstracts](#call) · [Sponsors](#sponsors) · [Contact](#contact)
+
+## Basic information <a id="basic_information"/>
+
+The workshop will take place during **21-22 June 2022** at INESC-TEC, in **Porto, Portugal**.
+
+Due to health regulations and to ensure an atmosphere of conviviality, we are only able to accept **45 participants**.
+Registrations will be processed on a first-come first-serve basis, will be confirmed upon paying a small inscription fee of **50€**, and include:
+
+* Accommodation in shared rooms (occupancy of 2 or 3).
+* Social activities, including a boat trip on the Douro river and a visit to Port wine cellars.
+* Social dinner in Porto city centre.
+* Lunches at the university canteen.
+
+### About the Venue
+
+INESC-TEC is located at the following address:
+
+Rua Dr. Roberto Frias  
+4200-465 Porto  
+Portugal
+
+It is easily reachable from metro stops *IPO* and *Hospital São João*.
+
+<p align="center">
+<iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3002.941954833861!2d-8.597595684597712!3d41.17943321682366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd246440cf4b8787%3A0x4969a3392daad2eb!2sINESC%20TEC%20-%20Institute%20for%20Systems%20and%20Computer%20Engineering%2C%20Technology%20and%20Science!5e0!3m2!1sen!2ses!4v1572254836700!5m2!1sen!2ses"
+    frameborder="0" style="border:0" allowfullscreen width="600" height="450"></iframe>
+</p>
+
+### About the Dates
+
+The workshop takes place on a Tuesday (21/06) and Wednesday (22/06).
+On June, 23rd the famous São João festival starts in Porto, with plenty of activities (depending on the health situation, of course!).
+
+<p align="center">
+<iframe
+    src="https://www.youtube.com/embed/AE7P_nFXdsI"
+    frameborder=0 style="border:0" allowfullscreen width="600" height="450"></iframe>
+</p>
+
+### Accommodation
+
+All registered participants are offered free accommodation in shared rooms (15 double and 5 triple rooms).
+The host structure is [Hotel Ibis Porto São João](https://all.accor.com/hotel/3227/index.en.shtml), a ten minute walk from INESC-TEC.
+
+The registration fee includes two nights at the hotel, 19-21 June.
+Participants who want to extend their stay at the same structure can get in touch with the hotel after receiving their registration confirmation.
+
+## Important dates <a id="important_dates"/> <sub><sup>([back to top](#top))</sup></sub>
+
+* 21 January 2022: registration opens.
+* 14 March 2022: registration closes.
+* 15 March 2022: abstract/pitch submission starts.
+* 31 March 2022: abstract/pitch submission ends.
+* 1 April 2022: pitch vote starts.
+* 15 April 2022: pitch vote ends.
+* 20-21 June 2022: workshop.
+
+## Programme <a id="programme"/> <sub><sup>([back to top](#top))</sup></sub>
+
+The programme details will be communicated shortly.
+For the moment, we provide here a list of the main activities, without timetabling details.
+
+### Day 1
+
+* Welcome and registration.
+* Contributed talks.
+* Coffee break.
+* Contributed talks.
+* Lunch.
+* **Invited talk** by Renata Mansini: "Kernel Search and general purpose methods: the relevance of MIP solvers in the development of modern heuristics for mixed integer linear programming problems".
+* Social activity (boat trip and guided tour).
+* Social dinner.
+
+### Day 2
+
+* Contributed talks.
+* Coffee break.
+* Contributed talks.
+* Lunch.
+* **Invited talk** by Pedro Amorim: "The practice and impact of OR: lessons learned."
+* Coffee break.
+* Contributed talks.
+* Closing remarks and goodbyes.
+
+## Registration <a id="registration"/> <sub><sup>([back to top](#top))</sup></sub>
+
+Registration is open from January, 21 to March, 14.
+You can register filling in and submitting [the registration form](#) and completing the payment of the enrolment fee of 50€.
+
+To pay the enrolment fee ...
+
+## Call for abstracts <a id="call"/> <sub><sup>([back to top](#top))</sup></sub>
+
+To maintain an atmosphere of conviviality, foster fruitful discussion and keep the quality of the event high, **all sessions at the workshop are plenary**.
+For this reason, not all participants will have time to five a full-length talk (15 minutes + 5 minutes for questions).
+
+This year we decided to use the following (experimental) approach for abstract evaluation.
+All participants are invited to send their abstract in one of the following forms:
+* One slide briefly describing the content of the talk (recommended), or
+* One paragraph of text briefly describing the content of the talk.
+These submissions must be sent via email to [workshop@euroyoung.eu](mailto:workshop@euroyoung.eu) between March, 15 and March, 31.
+
+Starting from April, 1, we will share the submissions to all participants, who will be able to **cast a vote** for their favourite abstracts.
+On April, 15, when the voting period closes, the 15 highest-voted abstracts will be selected for a **full-length talk**.
+The remaining abstracts will be presented during our "**pitch sessions**": rapid-paced sessions in which each participant has 3 minutes available to pique the interest of the audience.
+
+In this way, we hope to give everyone a chance to present their research project while maintaining all sessions plenary.
+
+## Sponsors <a id="sponsors"/> <sub><sup>([back to top](#top))</sup></sub>
+
+We gratefully acknowledge the contribution of:
+
+* [LTP Labs](https://ltplabs.com/)
+* [The Faculty of Engineering of Porto University](https://sigarra.up.pt/feup/pt/web_page.inicial)
+* [The Portuguese Operational Research Society APDIO](http://apdio.pt/home)
+* [INESC TEC](https://www.inesctec.pt/en)
+* [EURO](https://euro-online.org/)
+
+## Contact <a id="contact"/> <sub><sup>([back to top](#top))</sup></sub>
+
+Any enquiry related to the workshop should be addressed to [workshop@euroyoung.eu](mailto:workshop@euroyoung.eu).
+
+You can address general questions about EUROYoung to [info@euroyoung.eu](mailto:info@euroyoung.eu).
+
+The workshop organisers are:
+
+* [Maria João Santos](mailto:mjsantos@inesctec.pt)
+* [Sara Martins](mailto:sara.martins@fe.up.pt)
+* [Alberto Santini](mailto:alberto@santini.in)
