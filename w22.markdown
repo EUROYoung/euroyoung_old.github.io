@@ -4,7 +4,7 @@
 
 ## Basic information <a id="basic_information"/>
 
-The workshop will take place during **21-22 June 2022** at INESC-TEC, in **Porto, Portugal**.
+The workshop will take place during **21-22 June 2022** at [INESC-TEC](https://www.inesctec.pt/en) and [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial), in **Porto, Portugal**.
 
 Due to health regulations and to ensure an atmosphere of conviviality, we are only able to accept **45 participants**.
 Registrations will be processed on a first-come first-serve basis, will be confirmed upon paying a small inscription fee of **50€**, and include:
@@ -16,7 +16,7 @@ Registrations will be processed on a first-come first-serve basis, will be confi
 
 ### About the Venue
 
-INESC-TEC is located at the following address:
+Both INESC-TEC and FEUP are located at the following address:
 
 Rua Dr. Roberto Frias  
 4200-465 Porto  
@@ -44,19 +44,19 @@ On June, 23rd the famous São João festival starts in Porto, with plenty of act
 ### Accommodation
 
 All registered participants are offered free accommodation in shared rooms (15 double and 5 triple rooms).
-The host structure is [Hotel Ibis Porto São João](https://all.accor.com/hotel/3227/index.en.shtml), a ten minute walk from INESC-TEC.
+The host structure is [Hotel Ibis Porto São João](https://all.accor.com/hotel/3227/index.en.shtml), a ten minute walk from INESC-TEC and FEUP.
 
 The registration fee includes two nights at the hotel, 19-21 June.
 Participants who want to extend their stay at the same structure can get in touch with the hotel after receiving their registration confirmation.
 
 ## Important dates <a id="important_dates"/> <sub><sup>([back to top](#top))</sup></sub>
 
-* 21 January 2022: registration opens.
-* 14 March 2022: registration closes.
+* 01 February 2022: registration opens.
+* 14 March 2022: registration closes (the registration fee must be paid by this date).
 * 15 March 2022: abstract/pitch submission starts.
-* 31 March 2022: abstract/pitch submission ends.
-* 1 April 2022: pitch vote starts.
-* 15 April 2022: pitch vote ends.
+* 15 April 2022: abstract/pitch submission ends.
+* 16 April 2022: pitch vote starts.
+* 30 April 2022: pitch vote ends.
 * 20-21 June 2022: workshop.
 
 ## Programme <a id="programme"/> <sub><sup>([back to top](#top))</sup></sub>
@@ -66,32 +66,38 @@ For the moment, we provide here a list of the main activities, without timetabli
 
 ### Day 1
 
-* Welcome and registration.
-* Contributed talks.
-* Coffee break.
-* Contributed talks.
+* (at INESC-TEC) Welcome and registration.
+* (at INESC-TEC) Contributed talks.
+* (at INESC-TEC) Coffee break.
+* (at INESC-TEC) Contributed talks.
 * Lunch.
-* **Invited talk** by Renata Mansini: "Kernel Search and general purpose methods: the relevance of MIP solvers in the development of modern heuristics for mixed integer linear programming problems".
-* Social activity (boat trip and guided tour).
+* (at FEUP) **Invited talk** by Renata Mansini: "Kernel Search and general purpose methods: the relevance of MIP solvers in the development of modern heuristics for mixed integer linear programming problems".
+* Social activity.
 * Social dinner.
 
 ### Day 2
 
-* Contributed talks.
-* Coffee break.
-* Contributed talks.
+* (at INESC-TEC) Contributed talks.
+* (at INESC-TEC) Coffee break.
+* (at INESC-TEC) Contributed talks.
 * Lunch.
-* **Invited talk** by Pedro Amorim: "The practice and impact of OR: lessons learned."
-* Coffee break.
-* Contributed talks.
-* Closing remarks and goodbyes.
+* (at FEUP) **Invited talk** by Pedro Amorim: "The practice and impact of OR: lessons learned."
+* (at FEUP) Coffee break.
+* (at FEUP) Contributed talks.
+* (at FEUP) Closing remarks and goodbyes.
 
 ## Registration <a id="registration"/> <sub><sup>([back to top](#top))</sup></sub>
 
 Registration is open from January, 21 to March, 14.
-You can register filling in and submitting [the registration form](#) and completing the payment of the enrolment fee of 50€.
+You can register by filling in and submitting [the registration form](#) and completing the payment of the enrolment fee of 50€.
 
 To pay the enrolment fee ...
+
+In case of cancellation of attendance:
+* If a participant cancels their attendance, the organisation of the workshop keeps the entire registration fee of 50€ (in other words, the fee is a non-refundable deposit).
+* In case the organisers have to postpone the workshop (for example, due to the current pandemic), participants who paid the registration fee will be automatically signed up for the new dates.
+Alternatively, they can decide to have their fee refunded.
+In this latter case, the university (which processes the payments) keeps an administrative fee of 10€.
 
 ## Call for abstracts <a id="call"/> <sub><sup>([back to top](#top))</sup></sub>
 
@@ -117,7 +123,7 @@ We gratefully acknowledge the contribution of:
 * [LTP Labs](https://ltplabs.com/)
 * [The Faculty of Engineering of Porto University](https://sigarra.up.pt/feup/pt/web_page.inicial)
 * [The Portuguese Operational Research Society APDIO](http://apdio.pt/home)
-* [INESC TEC](https://www.inesctec.pt/en)
+* [INESC-TEC](https://www.inesctec.pt/en)
 * [EURO](https://euro-online.org/)
 
 ## Contact <a id="contact"/> <sub><sup>([back to top](#top))</sup></sub>
