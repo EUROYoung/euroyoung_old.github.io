@@ -7,7 +7,7 @@ The workshop will take place during **21-22 June 2022** at [INESC-TEC](https://w
 Due to health regulations and to ensure an atmosphere of conviviality, we are only able to accept **45 participants**.
 Registrations will be processed on a first-come first-serve basis, will be confirmed upon paying a small inscription fee of **50€**, and include:
 
-* Accommodation in shared rooms (occupancy of 2 or 3).
+* Accommodation for two nights in shared rooms (occupancy of 2 or 3).
 * Social activities (more info soon, but we expect good news for Port wine lovers).
 * Social dinner in Porto city centre.
 * Lunches at the university canteen.
@@ -42,6 +42,7 @@ On June, 23rd the famous São João festival starts in Porto, with plenty of act
 ### Accommodation
 
 All registered participants are offered free accommodation in shared rooms (15 double and 5 triple rooms).
+The offered accommodation covers the night of 20-21 June and that of 21-22 June.
 The host structure is [Hotel Ibis Porto São João](https://all.accor.com/hotel/3227/index.en.shtml), a ten minute walk from INESC-TEC and FEUP.
 
 The registration fee includes two nights at the hotel, 19-21 June.
