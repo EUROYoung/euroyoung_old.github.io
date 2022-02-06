@@ -45,7 +45,7 @@ All registered participants are offered free accommodation in shared rooms (15 d
 The offered accommodation covers the night of 20-21 June and that of 21-22 June.
 The host structure is [Hotel Ibis Porto São João](https://all.accor.com/hotel/3227/index.en.shtml), a ten minute walk from INESC-TEC and FEUP.
 
-The registration fee includes two nights at the hotel, 19-21 June.
+Please note that the registration fee includes two nights at the hotel, 20-22 June.
 Participants who want to extend their stay at the same structure can get in touch with the hotel after receiving their registration confirmation.
 
 ## Sponsors
