@@ -9,7 +9,7 @@ This year we decided to use the following (experimental) approach for abstract e
 All participants are invited to send their abstract in one of the following forms:
 * One slide briefly describing the content of the talk (recommended), or
 * One paragraph of text briefly describing the content of the talk.
-These submissions must be sent via email to [workshop@euroyoung.eu](mailto:workshop@euroyoung.eu) between March, 15 and March, 31.
+These submissions must be sent via email to [workshop@euroyoung.eu](mailto:workshop@euroyoung.eu) between March, 15 and April, 15.
 
 Starting from April, 1, we will share the submissions to all participants, who will be able to **cast a vote** for their favourite abstracts.
 On April, 15, when the voting period closes, the 15 highest-voted abstracts will be selected for a **full-length talk**.
