@@ -8,4 +8,4 @@
 * 15 April 2022: abstract/pitch submission ends.
 * 16 April 2022: pitch vote starts.
 * 30 April 2022: pitch vote ends.
-* 20-21 June 2022: workshop.
+* 21-22 June 2022: workshop.
