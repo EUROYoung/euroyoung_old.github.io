@@ -4,7 +4,7 @@
 
 Registration is open from January, 21 to March, 14.
 You can register by filling in and submitting [the registration form](https://forms.gle/QjZuPqK7LrzL3RnQ7) and completing the payment of the enrolment fee of 50€.
-After registration, you will receive an email with detailed information on how to pay the fee.
+Within a few days of the registration, you will receive an email with detailed information on how to pay the fee.
 Your registration will be valid after we receive the payment.
 
 In case of cancellation of attendance:
