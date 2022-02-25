@@ -52,8 +52,8 @@ Participants who want to extend their stay at the same structure can get in touc
 
 We gratefully acknowledge the contribution of:
 
-* [LTP Labs](https://ltplabs.com/)
-* [The Faculty of Engineering of Porto University](https://sigarra.up.pt/feup/pt/web_page.inicial)
-* [The Portuguese Operational Research Society APDIO](http://apdio.pt/home)
-* [INESC-TEC](https://www.inesctec.pt/en)
 * [EURO](https://euro-online.org/)
+* [Department of Industrial Engineering and Management (DEGI), Faculty of Engineering, University of Porto](https://sigarra.up.pt/feup/pt/web_page.inicial)
+* [INESC-TEC](https://www.inesctec.pt/en)
+* [LTP Labs](https://ltplabs.com/)
+* [The Portuguese Operational Research Society APDIO](http://apdio.pt/home)
