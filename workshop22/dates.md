@@ -7,6 +7,6 @@
 * 02 April 2022: abstract/pitch submission starts.
 * 30 April 2022: abstract/pitch submission ends.
 * 30 April 2022: deadline for paying the enrolment fee.
-* 02 May 2022: pitch vote starts.
+* 09 May 2022: pitch vote starts.
 * 30 May 2022: pitch vote ends.
 * 21-22 June 2022: workshop.
