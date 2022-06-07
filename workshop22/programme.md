@@ -7,18 +7,17 @@ Please note that last-minute changes are still possible, due to timetabling cons
 
 ### Day 1 (June 21)
 
-* 08:30 - 09:00 (at INSEC-TEC) Registration.
-* 09:00 - 09:30 (at INESC-TEC) Welcome.
-* 09:30 - 10:30 (at INESC-TEC) Contributed talks.
-    * 09:30 - Belen Navarro: Makespan minimization for the flowshop scheduling problem with limited storage capacity between machines.
-    * 09:50 - Carla Talens: The 2-stage assembly scheduling problem.
-    * 10:10 - Lena Reisenegger: Optimizing waste management for leftover food in grocery retail considering economic, environmental, and social aspects.
-* 10:30 - 11:00 (at INESC-TEC) Coffee break.
-* 11:00 - 12:20 (at INESC-TEC) Contributed talks.
-    * 11:00 - Barbara Rodrigues: Market Integration of Behind-the-Meter Residential Energy Storage.
-    * 11:20 - Cesare Caputo: Energy System Evolution Strategies for Mobile Micro-grids using Deep Reinforcement Learning Flexibility Analysis.
-    * 11:40 - Reinaldo Gomes: Identifying optimal flexibility strategies through a two-stage stochastic programming model to mitigate uncertainty resulting from fires in the forest-to-bioenergy supply chain.
-    * 12:00 - TBD
+* 08:30 - 12:30 (at INSEC-TEC) Registration.
+* 09:00 - 10:00 (at INESC-TEC) Welcome.
+* 10:00 - 11:00 (at INESC-TEC) Contributed talks.
+    * 10:00 - Belen Navarro: Makespan minimization for the flowshop scheduling problem with limited storage capacity between machines.
+    * 10:20 - Carla Talens: The 2-stage assembly scheduling problem.
+    * 10:40 - Lena Reisenegger: Optimizing waste management for leftover food in grocery retail considering economic, environmental, and social aspects.
+* 10:45 - 11:15 (at INESC-TEC) Coffee break.
+* 11:20 - 12:20 (at INESC-TEC) Contributed talks.
+    * 11:20 - Barbara Rodrigues: Market Integration of Behind-the-Meter Residential Energy Storage.
+    * 11:40 - Cesare Caputo: Energy System Evolution Strategies for Mobile Micro-grids using Deep Reinforcement Learning Flexibility Analysis.
+    * 12:00 - Reinaldo Gomes: Identifying optimal flexibility strategies through a two-stage stochastic programming model to mitigate uncertainty resulting from fires in the forest-to-bioenergy supply chain.
 * 12:30 Lunch.
 * 14:00 - 15:00 (at FEUP) **Invited talk** by Renata Mansini: "Kernel Search and general purpose methods: the relevance of MIP solvers in the development of modern heuristics for mixed integer linear programming problems".
 * 15:00 - 15:40 (at FEUP) Contributed talks.
