@@ -8,12 +8,12 @@ Please note that last-minute changes are still possible, due to timetabling cons
 ### Day 1 (June 21)
 
 * 08:30 - 12:30 (at INSEC-TEC) Registration.
-* 09:00 - 10:00 (at INESC-TEC) Welcome.
-* 10:00 - 11:00 (at INESC-TEC) Contributed talks.
-    * 10:00 - Belen Navarro: Makespan minimization for the flowshop scheduling problem with limited storage capacity between machines.
-    * 10:20 - Carla Talens: The 2-stage assembly scheduling problem.
-    * 10:40 - Lena Reisenegger: Optimizing waste management for leftover food in grocery retail considering economic, environmental, and social aspects.
-* 10:45 - 11:15 (at INESC-TEC) Coffee break.
+* 09:00 - 09:45 (at INESC-TEC) Welcome.
+* 09:50 - 11:00 (at INESC-TEC) Contributed talks.
+    * 09:50 - Belen Navarro: Makespan minimization for the flowshop scheduling problem with limited storage capacity between machines.
+    * 10:10 - Carla Talens: The 2-stage assembly scheduling problem.
+    * 10:30 - Lena Reisenegger: Optimizing waste management for leftover food in grocery retail considering economic, environmental, and social aspects.
+* 10:50 - 11:20 (at INESC-TEC) Coffee break.
 * 11:20 - 12:20 (at INESC-TEC) Contributed talks.
     * 11:20 - Barbara Rodrigues: Market Integration of Behind-the-Meter Residential Energy Storage.
     * 11:40 - Cesare Caputo: Energy System Evolution Strategies for Mobile Micro-grids using Deep Reinforcement Learning Flexibility Analysis.
