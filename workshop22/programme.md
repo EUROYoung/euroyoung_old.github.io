@@ -33,14 +33,14 @@ Please note that last-minute changes are still possible, due to timetabling cons
     * 09:00 - Ali Hassanzadeh: How to conclude a suspended sports league?
     * 09:20 - Miao Li: Integrating the grouping and timetabling of multi-league sports competitions.
     * 09:40 - Masoud Golalikhani: Optimizing realistic pricing plans for one-way carsharing systems.
-    * 10:00 - TBD
+    * 10:00 - Alexandra Oliveira: A quality monitoring approach based on a condition index.
 * 10:30 - 11:00 (at INESC-TEC) Coffee break.
 * 11:00 - 12:00 (at INESC-TEC) Contributed talks.
     * 11:00 - Nicolas Clavijo-Buritica: Robustness Analysis for Sustainable Agri-food Supply Networks.
     * 11:20 - Nho Min Dinh: Inventory Routing Problems: Split and Unsplit delivery.
     * 11:40 - Minakshi Mandal: Last-Mile Delivery Using Public Transportation Systems.
 * 12:30 Lunch.
-* 14:00 - 15:00 (at FEUP) **Invited talk** by Pedro Amorim: "The practice and impact of OR: lessons learned."
+* 14:00 - 15:00 (at FEUP) **Invited talk** by Pedro Amorim: "The practice and impact of OR: lessons learned".
 * 15:00 - 15:30 (at FEUP) Coffee break.
 * 15:30 - 16:50 (at FEUP) Contributed talks.
     * 15:30 - Anna Kovalenko: Two paradigms for combining optimization and satisfiability: maximum satisfiability and optimum satisfiability problems.
