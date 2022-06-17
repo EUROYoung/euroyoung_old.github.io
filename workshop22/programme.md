@@ -35,10 +35,11 @@ Please note that last-minute changes are still possible, due to timetabling cons
     * 09:40 - Masoud Golalikhani: Optimizing realistic pricing plans for one-way carsharing systems.
     * 10:00 - Alexandra Oliveira: A quality monitoring approach based on a condition index.
 * 10:30 - 11:00 (at INESC-TEC) Coffee break.
-* 11:00 - 12:00 (at INESC-TEC) Contributed talks.
+* 11:00 - 12:20 (at INESC-TEC) Contributed talks.
     * 11:00 - Nicolas Clavijo-Buritica: Robustness Analysis for Sustainable Agri-food Supply Networks.
     * 11:20 - Nho Min Dinh: Inventory Routing Problems: Split and Unsplit delivery.
     * 11:40 - Minakshi Mandal: Last-Mile Delivery Using Public Transportation Systems.
+    * 12:00 - Alba Olivares: Feature Centralized Multiproduct Newsvendor with Substitution.
 * 12:30 Lunch.
 * 14:00 - 15:00 (at FEUP) **Invited talk** by Pedro Amorim: "The practice and impact of OR: lessons learned".
 * 15:00 - 15:30 (at FEUP) Coffee break.
