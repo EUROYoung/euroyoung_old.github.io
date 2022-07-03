@@ -3,7 +3,7 @@ layout: home
 ---
 
 EUROYoung is a Forum of [EURO](https://www.euro-online.org/), the European Association of Operational Research Societies.
-We provide training, dissemination and networking opportunities to young Operational Researchers.
+We provide training, dissemination, and networking opportunities to young Operational Researchers.
 
 ![Some EUROYoung members at EURO2018 in Valencia, Spain](images/euroyoung-partying.jpg)
 
@@ -27,19 +27,20 @@ With these workshops we want:
 
 ## Next workshop
 
-* [Porto, Portugal](workshop22/), 21-22 June 2022.
+* To be announced, it will take place in 2023.
 
 ## Past workshops
 
+* [Porto, Portugal](workshop22/), 21-22 June 2022.
 * [Seville, Spain](workshop19/index.html), 2-3 May 2019.
 
 # Membership
 
 All members of [EURO national societies](https://www.euro-online.org/web/pages/1457/current-member-societies) are welcome.
-To stay true to our name, we encourage participation of young researchers (up to 35 years old) and of anyone who is &ldquo;young to OR&rdquo; (recent graduates, PhD students, early-career post-docs).
+To stay true to our name, we encourage participation of young researchers (up to 35 years old) and of anyone who is &ldquo;young to OR&rdquo; (recent graduates, PhD students, early-career post-docs) independently of their age.
 
 We track membership through our [Google Group](https://groups.google.com/forum/#!forum/euroyoung).
-To become a member, apply to join the group and tell us a little bit about yourself.
+To become a member, apply to join the group and tell us a little about yourself.
 To stop being a member, cancel your group subscription.
 
 # Contact
