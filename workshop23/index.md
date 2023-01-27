@@ -20,8 +20,8 @@ ESSEC Business School is located at the following address:
 95021 Cergy
 France
 
-It is easily reachable with suburban trains, at stop *Cergy Prefecture*.
-The trains serving the station are RER Line A, and Transilien Line L.
+It is easily reachable with suburban trains at stop *Cergy Prefecture*.
+The trains serving the station are RER Line A and Transilien Line L.
 ESSEC is also connected with a direct bus to Paris Charles de Gaulle Airport (CDG); the bus line is 9518 and departs from the airport bus station "Roissypole".
 
 <p align="center">
@@ -30,14 +30,14 @@ ESSEC is also connected with a direct bus to Paris Charles de Gaulle Airport (CD
 
 ### About the Dates
 
-The workshop takes place on a Monday (05/06) and Tuesday (06/06).
+The workshop takes place on a Monday (05/06) and a Tuesday (06/06).
 You are welcome to come a few days earlier, if you want to enjoy a weekend in Paris.
 
 ### Accommodation
 
 All registered participants are offered free accommodation in shared apartments, which can accommodate up to six people (in individual beds).
 The offered accommodation covers the night of 04-05 June and that of 05-06 June.
-The host structure is [Cowool Aparthotel](https://www.cowool.co/cowool/cergy/), a 12-minute walk from ESSEC Business School.
+The host structure is [Cowool Aparthotel](https://www.cowool.co/cowool/cergy/), at a 12-minute walk from ESSEC Business School.
 
 Please note that the registration fee includes two nights at the hotel, 04-06 June.
 Participants who want to extend their stay at the same structure can get in touch with the hotel after receiving their registration confirmation.
