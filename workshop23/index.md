@@ -5,11 +5,11 @@
 The workshop will take place during **05-06 June 2023** at [ESSEC Business School](https://www.essec.edu/), in **Cergy, France**, a suburb of Paris.
 
 To ensure an atmosphere of conviviality, we are only able to accept **40 participants**.
-Registrations will be processed on a first-come first-serve basis, will be confirmed upon paying a small inscription fee of **100€**, and include:
+Registrations will be processed on a first-come first-serve basis, will be confirmed upon paying a small inscription fee of **100€**, and includes:
 
 * Accommodation for two nights in shared apartments (each apartment accommodates up to six people in single beds).
 * Social activities (more info soon).
-* Social dinner in Pontoise.
+* Social dinner in Pontoise, a nearby village.
 * Lunches and coffee breaks.
 
 ### About the Venue
