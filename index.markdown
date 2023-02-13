@@ -27,7 +27,7 @@ With these workshops we want:
 
 ## Next workshop
 
-* To be announced, it will take place in 2023.
+* [Cergy (Paris), France](workshop23/), 5-6 June 2023.
 
 ## Past workshops
 
