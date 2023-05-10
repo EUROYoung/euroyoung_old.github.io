@@ -37,10 +37,14 @@ You are welcome to come a few days earlier, if you want to enjoy a weekend in Pa
 
 All registered participants are offered free accommodation in shared apartments, which can accommodate up to six people (in individual beds).
 The offered accommodation covers the night of 04-05 June and that of 05-06 June.
-The host structure is [Cowool Aparthotel](https://www.cowool.co/cowool/cergy/), at a 12-minute walk from ESSEC Business School.
+The host structures are [Cowool Aparthotel](https://www.cowool.co/cowool/cergy/) and [Ibis Cergy Le Port](https://all.accor.com/hotel/0928/index.en.shtml), both at a 12-minute walk from ESSEC Business School.
 
 Please note that the registration fee includes two nights at the hotel, 04-06 June.
 Participants who want to extend their stay at the same structure can get in touch with the hotel after receiving their registration confirmation.
+
+### Participants home institutions
+
+![](3EYW_Participants.png)
 
 ## Sponsors
 
