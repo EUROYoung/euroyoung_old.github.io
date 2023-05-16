@@ -26,7 +26,7 @@ Please note that last-minute changes are still possible, due to timetabling cons
 * 12:30 - 14:00 Lunch
 * 14:00 - 15:00 **Invited talk** by [Ivana Ljubic](https://faculty.essec.edu/en/cv/en-ljubic-ivana/), ESSEC Business School. Topic: TBD
 * 15:00 - 15:30 Contributed talks
-    * 15:00 - 15:15 Domenico Serra. A Kernel Search algorithm for the Kidney Exchange Problem
+    * 15:00 - 15:15 Mohamed El Harrab. Multi-Architecture Microgrid Energy Management System (EMS): A Comparative Study of Deep Reinforcement Learning Algorithms with Population-Based Training for Hyperparameter Optimization
     * 15:15 - 15:30 Jan Krause. Pooling with recipes
 * 15:40 Departure from ESSEC
     * 16:30 The boat sets sail from Pontoise
@@ -48,7 +48,7 @@ Please note that last-minute changes are still possible, due to timetabling cons
     * 11:25 - 11:40 Miren Jasone Ramirez. Ayerbe	Group Counterfactual Explanations by means of Mathematical Optimization
     * 11:40 - 11:55 Nuria Gómez Vargas. Building uncertainty sets with auxiliary information in Robust Optimization
     * 11:55 - 12:10 Manuel Navarro García. Feature selection on high dimensional additive models: a matheuristic approach
-    * 12:10 - 12:25 Mohamed El Harrab. Multi-Architecture Microgrid Energy Management System (EMS): A Comparative Study of Deep Reinforcement Learning Algorithms with Population-Based Training for Hyperparameter Optimization
+    * 12:10 - 12:25 Domenico Serra. A Kernel Search algorithm for the Kidney Exchange Problem
 * 12:30- 14:00 Lunch
 * 14:00 - 15:00 **Invited talk** by [Leo Liberti](https://www.lix.polytechnique.fr/~liberti/), CNRS LIX. Topic: TBD
 * 15:00 - 15:30 Contributed talks
