@@ -35,7 +35,7 @@ You are welcome to come a few days earlier, if you want to enjoy a weekend in Pa
 
 ### Accommodation
 
-All registered participants are offered free accommodation in shared apartments, which can accommodate up to six people (in individual beds).
+All registered participants are offered free accommodation in shared rooms accommodating one, two or three six people (in individual beds).
 The offered accommodation covers the night of 04-05 June and that of 05-06 June.
 The host structures are [Cowool Aparthotel](https://www.cowool.co/cowool/cergy/) and [Ibis Cergy Le Port](https://all.accor.com/hotel/0928/index.en.shtml), both at a 12-minute walk from ESSEC Business School.
 
