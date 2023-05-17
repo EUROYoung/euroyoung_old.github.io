@@ -52,4 +52,4 @@ We gratefully acknowledge the contribution of:
 
 * [EURO](https://euro-online.org/)
 * [ESSEC Business School](https://www.essec.edu/) via the ESSEC Research Centre ([CERESSEC](https://www.essec.edu/en/pages/faculty-and-research/research/support-for-research-our-priorities/))
-* [DecisionBrain](https:/https://decisionbrain.com/), a leading Optimisation and Machine Learning company based in Paris
+* [DecisionBrain](https://decisionbrain.com/), a leading Optimisation and Machine Learning company based in Paris
