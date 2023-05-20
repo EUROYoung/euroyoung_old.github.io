@@ -55,11 +55,11 @@ Please note that last-minute changes are still possible, due to timetabling cons
     * 15:00 - 15:15 Laura Davila Pena. Metaheuristic approaches for the multi-compartment truck and trailer routing problem
     * 15:15 - 15:30 Minakshi Punam Mandal. Tactical Green Fleet-Sizing Decisions for Last-Mile Deliveries
 * 15:30 - 16:00 Coffee break
-* 16:00 - 17:10 Contributed talks
+* 16:00 - 17:15 Contributed talks
     * 16:00 - 16:15 Marina Leal Palazón. Feature Selection in Hierarchical Clustering: A Mathematical Optimization Approach
     * 16:15 - 16:30 Carmine Sorgente. Shortest paths with exclusive-disjunction arc pairs conflicts
     * 16:30 - 16:45 Martina Cerulli. Mathematical Programming Formulations for the Collapsed k-Core Problem
     * 16:45 - 17:00 Paolo Torrealba. Joint Order Batching and Picker Routing Problem including picker congestion
     * 17:00 - 17:15 Vittorio Capocasale. Blockchain in supply chains: a technology-oriented suitability framework
-* 17:00 Closing session
+* 17:15 Closing session
 * 18:00 BBQ starts
