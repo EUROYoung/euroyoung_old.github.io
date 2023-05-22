@@ -15,7 +15,7 @@ Please note that last-minute changes are still possible, due to timetabling cons
     * 09:30 - 09:45 Alice Calamita. A Benders decomposition approach for congested partial set covering location with uncertain demand
     * 09:45 - 10:00 Adrian Göß. Norm-induced Cuts: Optimization with Lipschitzian Black-box Functions
     * 10:00 - 10:15 Benedetto Manca. The Ellipsoidal Separation Machine
-    * 10:15 - 10:35 Charles Medi. TBD (DecisionBrain sponsored talk)
+    * 10:15 - 10:35 Charles Medi. Modeling and solving industrial lot-sizing problems (DecisionBrain sponsored talk)
 * 10:40 - 11:10 Coffee break
 * 11:10 - 12:25 Contributed talks
     * 11:10 - 11:25 Mariana Oliveira. Informing elective patient inter-hospital transfer using multi-objective optimization
