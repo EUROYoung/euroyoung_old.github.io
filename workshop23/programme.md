@@ -24,7 +24,7 @@ Please note that last-minute changes are still possible, due to timetabling cons
     * 11:55 - 12:10 Andrea Mancuso. A Two-Phase Optimization Tool for Efficient Surgery Scheduling
     * 12:10 - 12:25 Benedetta Ferrari. Mars Observation Scheduling Problem: optimizing the search for underground water
 * 12:30 - 14:00 Lunch
-* 14:00 - 15:00 **Invited talk** by [Ivana Ljubic](https://faculty.essec.edu/en/cv/en-ljubic-ivana/), ESSEC Business School. Topic: TBD
+* 14:00 - 15:00 **Invited talk** by [Ivana Ljubic](https://faculty.essec.edu/en/cv/en-ljubic-ivana/), ESSEC Business School. Benders Adaptive-Cuts Method for Two-Stage Stochastic Programs
 * 15:00 - 15:30 Contributed talks
     * 15:00 - 15:15 Mohamed El Harrab. Multi-Architecture Microgrid Energy Management System (EMS): A Comparative Study of Deep Reinforcement Learning Algorithms with Population-Based Training for Hyperparameter Optimization
     * 15:15 - 15:30 Jan Krause. Pooling with recipes
