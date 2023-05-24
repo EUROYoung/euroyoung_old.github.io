@@ -50,7 +50,7 @@ Please note that last-minute changes are still possible, due to timetabling cons
     * 11:55 - 12:10 Manuel Navarro García. Feature selection on high dimensional additive models: a matheuristic approach
     * 12:10 - 12:25 Domenico Serra. A Kernel Search algorithm for the Kidney Exchange Problem
 * 12:30- 14:00 Lunch
-* 14:00 - 15:00 **Invited talk** by [Leo Liberti](https://www.lix.polytechnique.fr/~liberti/), CNRS LIX. Topic: TBD
+* 14:00 - 15:00 **Invited talk** by [Leo Liberti](https://www.lix.polytechnique.fr/~liberti/), CNRS LIX. Career games with advice in relation to topic detection and community formation
 * 15:00 - 15:30 Contributed talks
     * 15:00 - 15:15 Laura Davila Pena. Metaheuristic approaches for the multi-compartment truck and trailer routing problem
     * 15:15 - 15:30 Minakshi Punam Mandal. Tactical Green Fleet-Sizing Decisions for Last-Mile Deliveries
