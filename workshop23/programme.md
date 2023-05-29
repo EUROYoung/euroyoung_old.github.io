@@ -5,6 +5,8 @@
 The programme for the Workshop is the following.
 Please note that last-minute changes are still possible, due to timetabling constraints.
 
+**New:** to download the Book of Abstracts, click [here](boa.pdf).
+
 ### Day 1 (June 05)
 
 * 08:30 - 12:30 Registration.
