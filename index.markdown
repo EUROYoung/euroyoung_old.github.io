@@ -27,10 +27,11 @@ With these workshops we want:
 
 ## Next workshop
 
-* [Cergy (Paris), France](workshop23/), 5-6 June 2023.
+* Coming soon...
 
 ## Past workshops
 
+* [Cergy (Paris), France](workshop23/), 5-6 June 2023.
 * [Porto, Portugal](workshop22/), 21-22 June 2022.
 * [Seville, Spain](workshop19/index.html), 2-3 May 2019.
 
