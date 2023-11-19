@@ -2,7 +2,7 @@
 
 ## Programme
 
-The preliminary programme for the Workshop is the following.
+The preliminary programme of the (Mini)PhD School is the following.
 
 ### Day 1 (September 04)
 

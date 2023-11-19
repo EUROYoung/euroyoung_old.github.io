@@ -18,7 +18,6 @@ She is author of more than 90 papers in international journals. She was EURO VIP
 ### Michel Bierlaire
 
 <img src="img/bierlaire.jpg" style="float: left; padding: 20px;" width="200">
-
 Michel Bierlaire is a professor at EPFL (École Polytechnique Fédérale de Lausanne) and the head of the Transport and Mobility Laboratory.
 
 He received a PhD in mathematics from University of Namur in 1996 and then joined as a research associate the Intelligent Transportation Systems Program at the Massachusetts Institute of Technology.
@@ -35,4 +34,35 @@ He creates and tests mathematical models and algorithms for applications in oper
 Apart from implementations in transportation demand analysis, his work also finds active use in other domains such as marketing and image analysis.
 His multidisciplinary research draws next to mathematics also on computer vision, image analysis, hospital management and marketing.
 
+### Elena Fernández
 
+<img src="img/fernandez.jpg" style="float: left; padding: 20px;" width="200">
+Elena Fernández is full professor of Operational Research at the University of Cadiz in Spain.
+After her Master's in mathematics at the University of Zaragoza, she obtained her PhD in computer science at the Polythecnical University of Catalonia.
+She worked at the University of the Basque Country and later was associate and then full professor at the Polytechincal University of Catalonia.
+She moved to the University of Cadiz in 2019.
+
+Her research spans a wide range of topics: location analysis, network design, and vehicle routing are the most prominent.
+She worked extensively with exact and heuristic methods, and has published more than a hundred paper that received more than five thousand citations.
+
+She is also very active in the national and European O.R. communities: she was president of EURO, and director of the scientific committee of the Spanish O.R. and Statistics Society.
+In 2021, she received the Lifetime Achievement in Location Analysis by the Location Analysis chapter of INFORMS.
+
+### Ola Jabali
+
+<img src="img/jabali.jpg" style="float: left; padding: 20px;" width="200">
+Prof. Jabali is an associate professor at the operations research and discrete optimization  group of DEIB (Dipartimento di Elettronica, Informazione e Bioingegneria) at the Politecnico di Milano. She is also an affiliated professor at HEC Montréal, Canada, and a collaborating member of the Interuniversity Research Centre on Enterprise Networks, Logistics and Transportation (CIRRELT).
+
+From 2012 till 2016, she was assistant professor at the Department of Logistics and Operations Management of HEC Montréal. She obtained her Ph.D. in Industrial Engineering from the group of Operations, Planning, Accounting and Control (OPAC) at Eindhoven University of Technology. In 2011, she was post-doctoral fellow at École Polytechnique de Montreal and at the CIRRELT.
+
+Her research interests deal with modelling realistic problems arising in transportation, production and logistics. She mainly focus on optimizing goods transportation, in particular problems related to pollution, uncertainty, fleet composition and customer service.
+
+### David Pisinger
+
+<img src="img/pisinger.png" style="float: left; padding: 20px;" width="200">
+David Pisinger is professor of Operations Research at DTU Management, Technical University of Denmark. His research interests include renewable energy optimisation, maritime and railway optimisation, vehicle routing problems, car-/bike-sharing, application of drones as well as vehicle loading problems. He has been leading several research projects within maritime and railway logistics, aiming at improving the environmental footprint of transportation.
+In 2023, he was awarded a prestigious ERC Advanced Grant with project "DECIDE - Machine learning for decision making under uncertainty".
+
+David received the Hedorf Fond's prize for Transport Research 2013, and the Teaching prize 2016 at DTU Management. In 2019, he was one of the finalists for the Franz Edelman award. Over the years, he has been supervising more than 20 PhD students of whom two have received the VeRoLog dissertation prize, one has received the TSL dissertation prize, and one has received the EURO doctoral dissertation award.
+
+He has written more than 100 papers and, with Silvano Martello, he i the author of a fundamental text on Knapsack Problems. He is Area editor of Transportation Science, and Associate editor of Transportation Research part C, the European Journal of Operational Research, Computers & Operations Research, among others.
