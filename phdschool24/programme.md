@@ -14,7 +14,7 @@ The preliminary programme of the (Mini)PhD School is the following.
 * 14:00 - 15:30. Professor 2. Class 1/2.
 * 15:30 - 16:00. Coffee break (savoury).
 * 16:00 - 17:30. Professor 2. Class 2/2.
-* 18:00 - 19:30. UPF Art Track guided tour.
+* 18:00 - 19:30. Guided tour TBD.
 
 ### Day 2 (September 05)
 

@@ -17,7 +17,7 @@ We will process registrations on a first-come, first-served basis.
 You will confirm your registration upon paying a small inscription fee of 100€ that includes:
 
 * **Accommodation** for three nights in shared rooms with en-suite bathrooms and showers at [TOC Hostel](https://tochostels.com/destinations/barcelona/).
-* **Social activities**, including a visit to UPF's [art collection](https://www.upf.edu/web/art-track), a human towers [workshop](https://www.trempats.cat/media/), and a communal paella dinner.
+* **Social activities**, including a guided tour (TBD), a human towers [workshop](https://www.trempats.cat/media/), and a communal paella dinner.
 * [**Social dinner**](https://www.somosesencia.es/en/essences/agua) on the beachfront in the Port Olimpic area.
 * Lunches and coffee breaks, including a surprise special coffee break on the last day.
 
