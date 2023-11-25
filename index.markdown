@@ -27,7 +27,7 @@ With these workshops we want:
 
 ## Next workshop
 
-* Coming soon...
+* [Barcelona, Spain](phdschool24/), 4-6 September 2024.
 
 ## Past workshops
 

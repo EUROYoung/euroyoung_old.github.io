@@ -2,7 +2,7 @@
 
 ## Basic information
 
-The 1<sup>st</sup> EUROYoung (Mini)PhD School on Planetary Wellbeing will take place from **04 to 07 September 2024** at the Department of Economics and Business of Universitat Pompeu Fabra (UPF) in **Barcelona, Spain**.
+The 1<sup>st</sup> EUROYoung (Mini)PhD School on Planetary Wellbeing will take place from **04 to 06 September 2024** at the Department of Economics and Business of Universitat Pompeu Fabra (UPF) in **Barcelona, Spain**.
 
 We have an amazing [teachers line-up](./teachers):
 
@@ -11,6 +11,14 @@ We have an amazing [teachers line-up](./teachers):
 * [**Elena Fernandez**](https://en.wikipedia.org/wiki/Elena_Fern%C3%A1ndez), University of Cadiz, Spain.
 * [**Ola Jabali**](https://www.deib.polimi.it/eng/people/details/1135640), Polytechnical University of Milan, Italy.
 * [**David Pisinger**](https://orbit.dtu.dk/en/persons/david-pisinger), Danish Technical University, Denmark.
+
+<p align="center">
+    <img style="display: inline; border: 1px solid black;" width="100" src="img/archetti_tiny.jpg">
+    <img style="display: inline; border: 1px solid black;" width="100" src="img/bierlaire_tiny.jpg">
+    <img style="display: inline; border: 1px solid black;" width="100" src="img/fernandez_tiny.jpg">
+    <img style="display: inline; border: 1px solid black;" width="100" src="img/jabali_tiny.jpg">
+    <img style="display: inline; border: 1px solid black;" width="100" src="img/pisinger_tiny.png">
+</p>
 
 To ensure a convivial atmosphere, we can only accept a limited number of participants.
 We will process registrations on a first-come, first-served basis.
