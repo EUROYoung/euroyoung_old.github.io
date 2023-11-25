@@ -24,7 +24,7 @@ To ensure a convivial atmosphere, we can only accept a limited number of partici
 We will process registrations on a first-come, first-served basis.
 You will confirm your registration upon paying a small inscription fee of 100€ that includes:
 
-* **Accommodation** for three nights in shared rooms with en-suite bathrooms and showers at [TOC Hostel](https://tochostels.com/destinations/barcelona/).
+* **Accommodation** for four nights in shared rooms with en-suite bathrooms and showers at [TOC Hostel](https://tochostels.com/destinations/barcelona/).
 * **Social activities**, including a guided tour (TBD), a human towers [workshop](https://www.trempats.cat/media/), and a communal paella dinner.
 * [**Social dinner**](https://www.somosesencia.es/en/essences/agua) on the beachfront in the Port Olimpic area.
 * Lunches and coffee breaks, including a surprise special coffee break on the last day.
@@ -45,7 +45,7 @@ Spain
 ### Accommodation
 
 We offer free accommodation in shared rooms accommodating multiple people (in individual beds) with en-suite bathrooms and showers.
-The offered accommodation covers the nights of 03-04, 04-05, and 05-06 September.
+The offered accommodation covers the nights of 03-04, 04-05, 05-06, and 06-07 September.
 
 The host structure is [**TOC Hostel**](https://tochostels.com/destinations/barcelona/), located in the heart of Barcelona and well-connected with the school's venue.
 For example, you can catch bus H16 at the bus stop "Plaça Universitat" (one minute from the hostel) and get off right in front of UPF's door at the stop "Ramon Trias Fargas - Doctor Trueta".
