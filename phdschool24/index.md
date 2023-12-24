@@ -1,5 +1,12 @@
 {% include_relative header.md %}
 
+<p align="center">
+    <img style="display: inline;" height="50" src="img/euro.png">
+    <img style="display: inline;" height="50" src="img/pw.png">
+    <img style="display: inline;" height="50" src="img/bse-data-science-center.jpg">
+    <img style="display: inline;" height="50" src="img/seio.png">
+</p>
+
 ## Basic information
 
 The 1<sup>st</sup> EUROYoung (Mini)PhD School on Planetary Wellbeing will take place from **04 to 06 September 2024** at the Department of Economics and Business of Universitat Pompeu Fabra (UPF) in **Barcelona, Spain**.
@@ -64,3 +71,4 @@ We gratefully acknowledge the contribution of:
 * Main Sponsor: [UPF Centre for Planetary Wellbeing](https://www.upf.edu/web/wellbeing)
 * Sponsor: [SEIO, the Spanish Statistics and Operations Research Society](https://www.seio.es/)
 * Sponsor: [UPF Department of Economics and Business](https://www.upf.edu/web/econ/)
+* Sponsor: [Data Science Centre, Barcelona School of Economics](https://datascience.bse.eu/)
