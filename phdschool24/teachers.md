@@ -13,7 +13,7 @@ Her research interests include models and algorithms for vehicle routing problem
 
 Claudia Archetti has carried out the scientific activity in collaboration with Italian and foreign colleagues and published joint papers with some of the best researchers at the international level.
 
-She is author of more than 90 papers in international journals. She was EURO VIP 3, in charge on piblications and communication. She was Area Editor of Computers and Operations Research. She is co-Editor in Chief of Networks and member of the Editorial Board of European Journal of Operational Research and EURO Journal on Computational Optimizartion.
+She is author of more than 100 papers in international journals. She was EURO VIP 3, in charge on piblications and communication. She was Area Editor of Computers and Operations Research. She is co-Editor in Chief of Networks and member of the Editorial Board of European Journal of Operational Research and EURO Journal on Computational Optimizartion.
 
 ### Michel Bierlaire
 

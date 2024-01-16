@@ -11,13 +11,18 @@
 
 The 1<sup>st</sup> EUROYoung (Mini)PhD School on Planetary Wellbeing will take place from **04 to 06 September 2024** at the Department of Economics and Business of Universitat Pompeu Fabra (UPF) in **Barcelona, Spain**.
 
-We have an amazing [teachers line-up](./teachers):
+We have an amazing [teachers line-up](./teachers) and interesting lecture topics:
 
 * [**Claudia Archetti**](https://faculty.essec.edu/en/cv/archetti-claudia/), ESSEC Business School, France.
+    * "Challenging problems in last-mile and same-day delivery"
 * [**Michel Bierlaire**](https://en.wikipedia.org/wiki/Michel_Bierlaire), EPFL, Switzerland.
+    * "Modeling irrational behavior: an optimization approach"
 * [**Elena Fernandez**](https://en.wikipedia.org/wiki/Elena_Fern%C3%A1ndez), University of Cadiz, Spain.
+    * "180 minutes of arc routing"
 * [**Ola Jabali**](https://www.deib.polimi.it/eng/people/details/1135640), Polytechnical University of Milan, Italy.
+    * "Electric vehciles and their charging infrastructure: issues and perspectives"
 * [**David Pisinger**](https://orbit.dtu.dk/en/persons/david-pisinger), Danish Technical University, Denmark.
+    * "Offshore wind farm design - exact and heuristic methods"
 
 <p align="center">
     <img style="display: inline; border: 1px solid black;" width="100" src="img/archetti_tiny.jpg">
@@ -32,8 +37,8 @@ We will process registrations on a first-come, first-served basis.
 You will confirm your registration upon paying a small inscription fee of 100€ that includes:
 
 * **Accommodation** for four nights in shared rooms with en-suite bathrooms and showers at [TOC Hostel](https://tochostels.com/destinations/barcelona/).
-* **Social activities**, including a guided tour (TBD), a human towers [workshop](https://www.trempats.cat/media/), and a communal paella dinner.
-* [**Social dinner**](https://www.somosesencia.es/en/essences/agua) on the beachfront in the Port Olimpic area.
+* **Social activities**, including a guided tour of [Sant Pau modernist complex](https://santpaubarcelona.org/en/), a human towers [workshop](https://www.trempats.cat/media/), and a communal paella dinner.
+* [**Social dinner**](https://www.somosesencia.es/en/essences/agua) on the beachfront in the &ldquo;Port Olimpic&rdquo; area.
 * Lunches and coffee breaks, including a surprise special coffee break on the last day.
 
 ### About the Venue
