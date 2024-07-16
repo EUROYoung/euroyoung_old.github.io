@@ -7,10 +7,10 @@ The preliminary programme of the (Mini)PhD School is the following.
 <table>
     <thead>
         <tr>
-            <th style="text-align:right"></th>
-            <th style="text-align:center">Day 1 (September 04)</th>
-            <th style="text-align:center">Day 2 (September 05)</th>
-            <th style="text-align:center">Day 3 (September 06)</th>
+            <th style="text-align:right;  width:16%"></th>
+            <th style="text-align:center; width:28%">Day 1 (September 04)</th>
+            <th style="text-align:center; width:28%">Day 2 (September 05)</th>
+            <th style="text-align:center; width:28%">Day 3 (September 06)</th>
         </tr>
     </thead>
     <tbody>
