@@ -48,15 +48,6 @@ She worked extensively with exact and heuristic methods, and has published more 
 She is also very active in the national and European O.R. communities: she was president of EURO, and director of the scientific committee of the Spanish O.R. and Statistics Society.
 In 2021, she received the Lifetime Achievement in Location Analysis by the Location Analysis chapter of INFORMS.
 
-### Ola Jabali
-
-<img src="img/jabali.jpg" style="float: left; padding: 20px;" width="200">
-Prof. Jabali is an associate professor at the operations research and discrete optimization  group of DEIB (Dipartimento di Elettronica, Informazione e Bioingegneria) at the Politecnico di Milano. She is also an affiliated professor at HEC Montréal, Canada, and a collaborating member of the Interuniversity Research Centre on Enterprise Networks, Logistics and Transportation (CIRRELT).
-
-From 2012 till 2016, she was assistant professor at the Department of Logistics and Operations Management of HEC Montréal. She obtained her Ph.D. in Industrial Engineering from the group of Operations, Planning, Accounting and Control (OPAC) at Eindhoven University of Technology. In 2011, she was post-doctoral fellow at École Polytechnique de Montreal and at the CIRRELT.
-
-Her research interests deal with modelling realistic problems arising in transportation, production and logistics. She mainly focus on optimizing goods transportation, in particular problems related to pollution, uncertainty, fleet composition and customer service.
-
 ### David Pisinger
 
 <img src="img/pisinger.png" style="float: left; padding: 20px;" width="200">

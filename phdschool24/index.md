@@ -19,8 +19,6 @@ We have an amazing [teachers line-up](./teachers) and interesting lecture topics
     * "Modeling irrational behavior: an optimization approach"
 * [**Elena Fernandez**](https://en.wikipedia.org/wiki/Elena_Fern%C3%A1ndez), University of Cadiz, Spain.
     * "180 minutes of arc routing"
-* [**Ola Jabali**](https://www.deib.polimi.it/eng/people/details/1135640), Polytechnical University of Milan, Italy.
-    * "Electric vehciles and their charging infrastructure: issues and perspectives"
 * [**David Pisinger**](https://orbit.dtu.dk/en/persons/david-pisinger), Danish Technical University, Denmark.
     * "Offshore wind farm design - exact and heuristic methods"
 
@@ -28,7 +26,6 @@ We have an amazing [teachers line-up](./teachers) and interesting lecture topics
     <img style="display: inline; border: 1px solid black;" width="100" src="img/archetti_tiny.jpg">
     <img style="display: inline; border: 1px solid black;" width="100" src="img/bierlaire_tiny.jpg">
     <img style="display: inline; border: 1px solid black;" width="100" src="img/fernandez_tiny.jpg">
-    <img style="display: inline; border: 1px solid black;" width="100" src="img/jabali_tiny.jpg">
     <img style="display: inline; border: 1px solid black;" width="100" src="img/pisinger_tiny.png">
 </p>
 
