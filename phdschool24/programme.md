@@ -4,7 +4,7 @@
 
 The preliminary programme of the (Mini)PhD School is the following.
 
-<table>
+<table style="width:100%">
     <thead>
         <tr>
             <th style="text-align:right;  width:16%"></th>
