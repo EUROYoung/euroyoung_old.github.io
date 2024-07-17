@@ -81,7 +81,7 @@ The preliminary programme of the (Mini)PhD School is the following.
             <td style="text-align:center"></td>
         </tr>
         <tr>
-            <td style="text-align:right">18:30 - 21:00</td>
+            <td style="text-align:right">21:00 - </td>
             <td style="text-align:center"></td>
             <td style="text-align:center">Social Dinner at Restaurant Agua</td>
             <td style="text-align:center"></td>
