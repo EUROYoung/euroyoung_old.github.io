@@ -56,7 +56,7 @@ Spain
 We offer free accommodation in shared rooms accommodating multiple people (in individual beds) with en-suite bathrooms and showers.
 The offered accommodation covers the nights of 03-04, 04-05, and 05-06 September.
 
-The host structure is [**TOC Hostel**](https://tochostels.com/destinations/barcelona/), located in the heart of Barcelona and well-connected with the school's venue.
+The host structure is [**TOC Hostel Gran Via**](https://tochostels.com/destinations/barcelona/), located in the heart of Barcelona and well-connected with the school's venue.
 For example, you can catch bus H16 at the bus stop "Plaça Universitat" (one minute from the hostel) and get off right in front of UPF's door at the stop "Ramon Trias Fargas - Doctor Trueta".
 
 Accommodation includes breakfast and use of the communal areas, including the rooftop swimming pool.

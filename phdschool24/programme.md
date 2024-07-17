@@ -7,10 +7,10 @@ The preliminary programme of the (Mini)PhD School is the following.
 <table style="width:100%">
     <thead>
         <tr>
-            <th style="text-align:right;  width:16%"></th>
-            <th style="text-align:center; width:28%">Day 1 (September 04)</th>
-            <th style="text-align:center; width:28%">Day 2 (September 05)</th>
-            <th style="text-align:center; width:28%">Day 3 (September 06)</th>
+            <th style="text-align:right"></th>
+            <th style="text-align:center"><div style="min-width:180px"></div>Day 1 (September 04)</th>
+            <th style="text-align:center"><div style="min-width:180px"></div>Day 2 (September 05)</th>
+            <th style="text-align:center"><div style="min-width:180px"></div>Day 3 (September 06)</th>
         </tr>
     </thead>
     <tbody>
@@ -22,9 +22,9 @@ The preliminary programme of the (Mini)PhD School is the following.
         </tr>
         <tr>
             <td style="text-align:right">09:00 - 10:30</td>
-            <td style="text-align:center">Pisinger (1/2)</td>
-            <td style="text-align:center">Archetti (2/2)</td>
-            <td style="text-align:center">Fernández (1/2)</td>
+            <td style="text-align:center;background-color:#3B7038;color:white;font-weight:bold;">Pisinger (1/2)</td>
+            <td style="text-align:center;background-color:#3B7038;color:white;font-weight:bold;">Archetti (2/2)</td>
+            <td style="text-align:center;background-color:#3B7038;color:white;font-weight:bold;">Fernández (1/2)</td>
         </tr>
         <tr>
             <td style="text-align:right">10:30 - 11:00</td>
@@ -34,9 +34,9 @@ The preliminary programme of the (Mini)PhD School is the following.
         </tr>
         <tr>
             <td style="text-align:right">11:00 - 12:30</td>
-            <td style="text-align:center">Pisinger (2/2)</td>
-            <td style="text-align:center">Bierlaire (1/2)</td>
-            <td style="text-align:center">Fernández (2/2)</td>
+            <td style="text-align:center;background-color:#3B7038;color:white;font-weight:bold;">Pisinger (2/2)</td>
+            <td style="text-align:center;background-color:#3B7038;color:white;font-weight:bold;">Bierlaire (1/2)</td>
+            <td style="text-align:center;background-color:#3B7038;color:white;font-weight:bold;">Fernández (2/2)</td>
         </tr>
         <tr>
             <td style="text-align:right">12:30 - 13:30</td>
@@ -46,8 +46,8 @@ The preliminary programme of the (Mini)PhD School is the following.
         </tr>
         <tr>
             <td style="text-align:right">13:30 - 15:00</td>
-            <td style="text-align:center">Archetti (1/2)</td>
-            <td style="text-align:center">Bierlaire (2/2)</td>
+            <td style="text-align:center;background-color:#3B7038;color:white;font-weight:bold;">Archetti (1/2)</td>
+            <td style="text-align:center;background-color:#3B7038;color:white;font-weight:bold;">Bierlaire (2/2)</td>
             <td style="text-align:center" rowspan=3>Paella Lunch</td>
         </tr>
         <tr>
@@ -57,7 +57,7 @@ The preliminary programme of the (Mini)PhD School is the following.
         </tr>
         <tr>
             <td style="text-align:right">15:30 - 16:00</td>
-            <td style="text-align:center" rowspan=2>Round table</td>
+            <td style="text-align:center;background-color:#403870;color:white;font-weight:bold;" rowspan=2>Round table</td>
             <td style="text-align:center"></td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ The preliminary programme of the (Mini)PhD School is the following.
 </table>
 
 <p align="center">
-    <img height="150px" src="img/sant_pau.jpg">
-    <img height="150px" src="img/castells.jpg">
-    <img height="150px" src="img/paella.jpg">
+    <img style="display:inline;" height="200px" src="img/sant_pau.jpg">
+    <img style="display:inline;" height="200px" src="img/castells.jpg">
+    <img style="display:inline;" height="200px" src="img/paella.jpg">
 </p>
