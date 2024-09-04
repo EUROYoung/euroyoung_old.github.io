@@ -2,6 +2,8 @@
 
 ## Programme
 
+{% include_relative rain.md %}
+
 The preliminary programme of the (Mini)PhD School is the following.
 
 <table style="width:100%">
