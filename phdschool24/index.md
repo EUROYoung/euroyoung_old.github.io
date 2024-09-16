@@ -7,8 +7,6 @@
     <img style="display: inline;" height="50" src="img/seio.png">
 </p>
 
-{% include_relative rain.md %}
-
 ## Basic information
 
 The 1<sup>st</sup> EUROYoung (Mini)PhD School on Planetary Wellbeing will take place from **04 to 06 September 2024** at the Department of Economics and Business of Universitat Pompeu Fabra (UPF) in **Barcelona, Spain**.
